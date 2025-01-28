@@ -1,6 +1,6 @@
 # QuizChat
 
-![alt text](https://github.com/YuioiuY/QuizChat/blob/main/source/images/logo.png)
+![alt text](https://github.com/YuioiuY/QuizChat/blob/main/source/images/logo_chat.png)
 
 ## Как получить доступ ? 
 
